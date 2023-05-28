@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: initial;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.topbar{
+    width:100%;
+    height:15px;
+    background: #F99A2E;
+}
+.head-nav li{
+    font-size: 23px;
+    color: #a2a2a2;
+    font-weight: 400;
+}
+.call-us{
+    background: #fef4e8;
+    padding: 7px 7px 7px 0;
+    border-radius: 0 0 0 21px;
+    border: 1px solid #f99a2e;
+    margin-right: 12px;
+}
+.phone{
+    padding: 8px;
+    border-radius: 0 0 0 17px;
+    background: #f99a2e;
+}
+.jumbtron{
+    background: url("img/dog-bones.svg");
+}
+.color{
+    color: #f99a2e;
+}
+.bg-color{
+    background: #f99a2e;
+}
+.btn{
+    padding: 1rem 2rem;
+    background: #f99a2e;
+    border-radius: 61px;
+    color: white;
+    font-weight: 500;
+}
+.nbm{
+    width: fit-content;
+    padding: 0.5rem 1rem;
+}
+.w-fit{
+    width:fit-content;
+}
+.h-fit{
+    height:fit-content;
+}
+.p-color{
+    color: rgba(0, 0, 0, 0.66);
+}
+#feedback{
+    background: url("img/pawprint.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.f-p{
+    background: white;
+    padding: 2rem 5rem;
+    margin-top: -3rem;
+    box-shadow: 1px 0px 15px 4px rgb(0 0 0 / 25%);
+}
+#why{
+    background: url("img/bone-vec.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.faq-head-1{
+    background: #8BB63D;
+}
+.faq-content-1{
+    background: #8bb63dbd ;
+}
+.faq-head-2{
+    background: #F99A2E;
+}
+.faq-content-2{
+    background: #f1bc81;
+}
+ul li::marker{
+    color: #fff;
+    font-size: 25px;
+}
+.icon-p{
+    vertical-align: super;
+    padding: .5rem .5rem;
+}
+.bot-bar{
+    height: 25px;
+    width: 100%;
+    background: #F99A2E;
+    margin-top: 3rem;
+}
